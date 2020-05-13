@@ -1,0 +1,64 @@
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.csprojResolveAssemblyReference.cache
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Agenda.Agenda.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Agenda.AgendaEdit.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Empleados.Empleados.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Empleados.EmpleadosEdit.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Login.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Pacientes.Pacientes.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Pacientes.PacientesEdit.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Properties.Resources.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.csproj.GenerateResource.Cache
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.UI.exe
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.UI.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\Framework.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Business.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Entities.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\Framework.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Business.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Entities.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.exe
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Data.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.DataEntities.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Data.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.DataEntities.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Nutricion.Nutricion.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.Psicologia.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.MedicinaGrl.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.Citas.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.MenuCitas.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Medico.Usuarios.resources
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\EPPlus.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.UI\bin\Debug\EPPlus.xml
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.UI.exe
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.UI.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\Framework.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Business.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Entities.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Data.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\EPPlus.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.DataEntities.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\Framework.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Business.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Entities.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.Data.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\EPPlus.xml
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\bin\Debug\MedicStudio.DataEntities.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Agenda.Agenda.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Agenda.AgendaEdit.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.Citas.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.MedicinaGrl.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.MenuCitas.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Citas.Psicologia.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Empleados.Empleados.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Empleados.EmpleadosEdit.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Login.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Nutricion.Nutricion.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Medico.Usuarios.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Pacientes.Pacientes.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Pacientes.PacientesEdit.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.Properties.Resources.resources
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.exe
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.csprojResolveAssemblyReference.cache
+F:\Proyectos CSharp\MedicStudio\MedicStudio.UI\obj\x86\Debug\MedicStudio.UI.csproj.GenerateResource.Cache

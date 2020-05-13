@@ -1,0 +1,61 @@
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.exe
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.pdb
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Form1.resources
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.login.resources
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Menu.resources
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Properties.Resources.resources
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csproj.GenerateResource.Cache
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.exe
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.pdb
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuGral.resources
+C:\Users\Jonatan\documents\visual studio 2010\Projects\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.RegistroPaciente.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.exe
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.pdb
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.exe
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.pdb
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csprojResolveAssemblyReference.cache
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Form1.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.login.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Menu.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuGral.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Properties.Resources.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.RegistroPaciente.resources
+C:\Users\computo\Desktop\MedicStudio 1.0\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csproj.GenerateResource.Cache
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.exe
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.pdb
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.exe
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.pdb
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Form1.resources
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.login.resources
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Menu.resources
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuGral.resources
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Properties.Resources.resources
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.RegistroPaciente.resources
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csproj.GenerateResource.Cache
+C:\Users\Javie_000\Desktop\Ciac\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuEmpleados.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.exe
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csprojResolveAssemblyReference.cache
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Form1.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.login.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Menu.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuEmpleados.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuGral.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Properties.Resources.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.RegistroPaciente.resources
+C:\Users\FelipeDeJesús\Desktop\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csproj.GenerateResource.Cache
+C:\Users\FelipeDeJesús\Documents\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.exe
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.exe
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csprojResolveAssemblyReference.cache
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Form1.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.login.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Menu.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuEmpleados.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.MenuGral.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.Properties.Resources.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio_1._0.RegistroPaciente.resources
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.csproj.GenerateResource.Cache
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.exe
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\bin\Debug\MedicStudio 1.0.pdb
+C:\Users\FelipeDeJesús\Desktop\CIAC\Visual studio CIAC\MedicStudio 1.0\obj\x86\Debug\MedicStudio 1.0.pdb

@@ -1,0 +1,14 @@
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\bin\Debug\MedicStudio.Entities.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\bin\Debug\MedicStudio.Entities.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\bin\Debug\Framework.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\bin\Debug\Framework.pdb
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\obj\Debug\MedicStudio.Entities.csprojResolveAssemblyReference.cache
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\obj\Debug\MedicStudio.Entities.dll
+C:\Users\FelipeDeJesús\documents\visual studio 2010\Projects\MedicStudio\MedicStudio.Entities\obj\Debug\MedicStudio.Entities.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\bin\Debug\MedicStudio.Entities.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\bin\Debug\MedicStudio.Entities.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\bin\Debug\Framework.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\bin\Debug\Framework.pdb
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\obj\Debug\MedicStudio.Entities.dll
+F:\Proyectos CSharp\MedicStudio\MedicStudio.Entities\obj\Debug\MedicStudio.Entities.pdb

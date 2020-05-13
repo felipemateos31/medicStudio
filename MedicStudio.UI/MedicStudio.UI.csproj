@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EDCDB922-241D-46CC-9060-09DDF1AC2DDA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MedicStudio.UI</RootNamespace>
+    <AssemblyName>MedicStudio.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agenda\Agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agenda\Agenda.Designer.cs">
+      <DependentUpon>Agenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agenda\AgendaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agenda\AgendaEdit.Designer.cs">
+      <DependentUpon>AgendaEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas\Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas\Citas.Designer.cs">
+      <DependentUpon>Citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas\MedicinaGrl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas\MedicinaGrl.Designer.cs">
+      <DependentUpon>MedicinaGrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas\MenuCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas\MenuCitas.Designer.cs">
+      <DependentUpon>MenuCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas\Psicologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas\Psicologia.Designer.cs">
+      <DependentUpon>Psicologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico\Medico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico\Medico.Designer.cs">
+      <DependentUpon>Medico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico\MedicoEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico\MedicoEdit.Designer.cs">
+      <DependentUpon>MedicoEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas\Nutricion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas\Nutricion.Designer.cs">
+      <DependentUpon>Nutricion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico\Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pacientes\Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pacientes\Pacientes.Designer.cs">
+      <DependentUpon>Pacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pacientes\PacientesEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pacientes\PacientesEdit.Designer.cs">
+      <DependentUpon>PacientesEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Agenda\Agenda.resx">
+      <DependentUpon>Agenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agenda\AgendaEdit.resx">
+      <DependentUpon>AgendaEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas\Citas.resx">
+      <DependentUpon>Citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas\MedicinaGrl.resx">
+      <DependentUpon>MedicinaGrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas\MenuCitas.resx">
+      <DependentUpon>MenuCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas\Psicologia.resx">
+      <DependentUpon>Psicologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico\Medico.resx">
+      <DependentUpon>Medico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico\MedicoEdit.resx">
+      <DependentUpon>MedicoEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas\Nutricion.resx">
+      <DependentUpon>Nutricion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico\Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pacientes\Pacientes.resx">
+      <DependentUpon>Pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pacientes\PacientesEdit.resx">
+      <DependentUpon>PacientesEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework\Framework.csproj">
+      <Project>{DA61FA7C-C39F-49F4-848F-43A403114678}</Project>
+      <Name>Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MedicStudio.Business\MedicStudio.Business.csproj">
+      <Project>{0FF12D8B-9608-4C73-A5FA-C415740FDDCB}</Project>
+      <Name>MedicStudio.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MedicStudio.Entities\MedicStudio.Entities.csproj">
+      <Project>{6CBFBA99-E79A-4AA7-BB0B-E39114B9A18E}</Project>
+      <Name>MedicStudio.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fond.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fond_large.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
